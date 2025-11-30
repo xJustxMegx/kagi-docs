@@ -1,31 +1,31 @@
-# Welcome to Kagi Search Help!
+# Welkom bij Kagi Zoeken Help!
 
-Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](/kagi/getting-started/index.md) and [FAQs](/kagi/faq/faq.md) are great places to begin. If you cannot find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at support@kagi.com.
+Welkom bij Kagi Zoeken Help! Als je nieuw bent bij Kagi zoeken, onze [Snelstart Gids](/kagi/getting-started/index.md) en [FAQs](/kagi/faq/faq.md) zijn een goede plek om te beginnen. Als je het antwoord op je Kagi vraag niet kan vinden, [vraag de community](https://kagi.com/discord) of stuur een email naar support@kagi.com.
 
-To send a bug report or a feature suggestion, you can use [KagiFeedback.org](https://kagifeedback.org).
+Om een bug te melden of een feature request te makan kan je  [KagiFeedback.org](https://kagifeedback.org) gebruiken.
 
-You can access our documentation in several ways:
+Je kan op verschillende manieren toegang krijgen tot onze documentenatie:
 
-- Click or tap an article link from the list.
-- Click or tap the magnifying glass icon at the top of the screen and do a search.
-- Use the **!help** [bang](/kagi/features/bangs.md) in Kagi Search. For example, searching in Kagi for [!help setting Kagi as default search engine](https://kagi.com/search?q=!help%20setting%20kagi%20as%20default%20search%20engine) will show you results containing our default search documentation.
+- Klik of tap op een artikel van de lijst.
+- Klik of tap op het vergrootglas in de top van het scherm en doe een zoekopdracht.
+- Gebruik de **!help** [bang](/kagi/features/bangs.md) in Kagi Zoeken. Als voorbeeld, zoeken in Kagi voor [!help setting kagi as default search engine](https://kagi.com/search?q=!help%20setting%20kagi%20as%20default%20search%20engine) zal resultanten tonen vanaf onze documentatie.
 
-Feedback about this Kagi Search documentation can be shared on our [Discord server](https://kagi.com/discord). 
-We would love to hear your thoughts on anything we can fix or improve.
+Feedback over de Kagi Zoeken documentatie kan gedeeld worden in de [Discord server](https://kagi.com/discord). 
+We horen graag uw mening over alles wat we kunnen repareren of verbeteren.
 
-## About Kagi Search
+## Over Kagi Zoeken
 
-Kagi is a high quality, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. We're glad you're here!
+Kagi is een hoogwaardige, 100% privacy-respecterende zoekmachine met resultaten aangevuld met niet-commerciële indexen en gepersonaliseerde zoekopdrachten. We zijn blij dat je hier bent!
 
-## About Orion Browser
+## Over Orion Browser
 
-Orion is a fast, zero telemetry browser for Mac/iOS. Learn more about [Orion](https://browser.kagi.com) or check [Orion documentation](/orion/).
+Orion is een snelle, nul telemetrie browser voor Mac/iOS. Meer informatie over [Orion](https://browser.kagi.com) of bezoek de [Orion documentatie](/orion/).
 
-## Contributing
+## Bijdragen
 
-This documentation is open source at our [Kagi Docs](https://github.com/kagisearch/kagi-docs) repo.
+Deze documentatie is open source op onze [Kagi Docs](https://github.com/kagisearch/kagi-docs) repo.
 
-We gladly welcome any fixes & improvements! Please see our [contribution guide](https://github.com/kagisearch/kagi-docs#contributing)
-before making a Pull Request.
+We verwelkomen graag alle oplossingen en verbeteringen! Zie onze [contributie guide](https://github.com/kagisearch/kagi-docs#contributing)
+voordat je een Pull Request doet.
 
-Once your contributions are accepted, make sure to add yourself to the list of [Contributors](/kagi/support-and-community/contributors.md). Thank you!
+Zodra je bijdragen zijn geaccepteerd, zorg er dan voor dat je jezelf toevoegt aan de lijst van [bijdragers](/kagi/support-and-community/contributors.md). Bedankt!
